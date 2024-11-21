@@ -1,7 +1,6 @@
 import styles from './CertificateStyle.module.css';
 import certificate from '../../assets/ARYAN JAIN_certificate.jpg';
-import certificate2 from '../../assets/SPHINX'24.jpg';
-
+import certificate2 from '../../assets/SPHINX'24.png'; 
 
 function Certificate() {
     return (
